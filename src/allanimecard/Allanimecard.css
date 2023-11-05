@@ -1,0 +1,67 @@
+.allanimecard{
+    width: 100%;
+    /* margin-inline-start: 10px; */
+    border: none !important;
+    padding: 0;
+    margin-inline: 0.5rem;
+    background-color: transparent !important;
+}
+
+.allanimename:hover{
+    color: #ffdd95;
+}
+
+.allanimeimage{
+    width: 100%;
+    height: 230px;
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset; */
+}
+
+.animeimagecontrolsdiv{
+    position: relative;
+}
+
+.animecontolsdiv{
+    position: absolute;
+    bottom: 10px;
+}
+
+.allanimebody{
+    padding: 0 !important;
+    padding-block: 10px 25px !important;
+}
+
+.dot{
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    /* color: gray; */
+    background-color: gray;
+    display: inline-block;
+    margin: 9px 12px;
+}
+
+.allanimetiming{
+    color: gray;
+    display: flex;
+}
+
+.allanimeplayicon{
+    display: none;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+}
+
+.animeimagecontrolsdiv:hover{
+    .allanimeimage{
+        filter:blur(6px);
+    }
+    .animecontolsdiv{
+        z-index: 10;
+    }
+    .allanimeplayicon{
+        display: block;
+        z-index: 10;
+    }
+}

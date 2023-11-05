@@ -1,0 +1,73 @@
+.navbarstyle{
+    background-color: #242428;
+    backdrop-filter: blur(10px);
+}
+
+.aniwatchnavlogo{
+    width: 8rem;
+    height: 2.5rem;
+    margin-inline-start: 10px;
+    margin-inline-end: 15px;
+}
+
+.menuicon{
+    border: none;
+    outline: none;
+    color: white;
+    background: none;
+    font-size: 1.5rem;
+    margin-inline-start: 5px;
+}
+
+.navmenubutton{
+    border: none !important;
+}
+.navmenuicon{
+    margin-block-start: 0.6rem;
+}
+
+.socialelements{
+    width: 600px;
+}
+
+/* .searchbar{
+    margin-inline: 65px;
+} */
+
+.navsearch{
+    display: flex;
+    border: 1px solid white;
+    background-color: white;
+    margin-block-start: 7px;
+}
+
+.searchinput{
+    border: none;
+    outline: none;
+    width: 16rem;
+}
+
+input[type="search"]::-webkit-search-cancel-button {
+    display: none;
+}
+
+.search-button{
+    border: none;
+    background-color: white;
+}
+
+.navsearchicon{
+    color: black;
+    background-color: white;
+    height: 2rem;
+}
+
+.filterBut{
+    border:none;
+    padding: 0 !important;
+    padding-inline: 5px !important;
+    margin: 0.5rem;
+}
+
+
+

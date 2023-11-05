@@ -1,0 +1,30 @@
+.animescontrols{
+    border: none;
+    padding: 0px 5px;
+    font-size: 11px;
+    line-height: 1;
+    font-weight: 600;
+    height: 20px;
+    margin-left: 3px;
+}
+
+.subanimes{
+    background-color: #b0e3af;
+    border-start-start-radius: 5px;
+    border-end-start-radius: 5px;
+}
+
+.dubanimes{
+    background-color: #e3b5cd;
+}
+
+.orginalanimes{
+    background-color: rgba(238,238,238,.2);
+    color: white;
+    border-end-end-radius: 5px;
+    border-start-end-radius: 5px;
+}
+
+.animecontrolsnumber{
+    padding-left: 3px;
+}

@@ -1,0 +1,34 @@
+.watch2gether{
+    color: white;
+    margin-inline-start: 13px;
+}
+
+.Random{
+    color: white;
+    margin-inline-start: 10px;  
+}
+
+.langtoggle{
+    background-color:#ffdd95;
+    border: none;
+    padding: 0px;
+    padding-inline: 3px;
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+    width: 30px;
+}
+
+.enlang{
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.jplang{
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+.watch2gether:hover, .Random:hover {
+    color: #ffdd95;
+}

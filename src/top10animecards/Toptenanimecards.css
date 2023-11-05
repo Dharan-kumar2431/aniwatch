@@ -1,0 +1,36 @@
+.animeindex{
+    color: white;
+    position: relative;
+    top: 20%;
+    left: 15%; 
+    font-size: 20px; 
+    padding-bottom: 10px;
+    border-bottom: 3px solid #ffdd95;
+}
+
+.toptenanimecontent{
+    padding-left: 0px !important;
+}
+
+.toptenanimeimg{
+    width: 100%;
+    /* height: 90%; */
+    border-radius: 10px;
+    padding-left: 0px;
+}
+
+.toptenanimetitle{
+    font-size: 1em;
+    /* margin-top: 5px; */
+    line-height: 1.5;
+}
+
+.toptenanimetitlelink{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.toptenanimetitlelink:hover{
+    color: #ffdd95;
+}

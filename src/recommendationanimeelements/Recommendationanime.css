@@ -1,0 +1,57 @@
+.recommendationanime{
+    background-color: #121315;
+    padding: 15px;
+}
+
+.recommendationgif{
+    border-radius: 50%;
+}
+
+.shareanime{
+    color: white;
+    font-weight: bolder;
+    font-size: 15px;
+    margin-top: 5px;
+}
+.sharedetails{
+    color: #555;
+    /* font-weight: 500; */
+    font-size: 12px;
+    text-align: center;
+    margin-top: 10px;
+    /* margin-left: 10px; */
+}
+.numberofshares{
+    display: block;
+    line-height: 10px;
+    font-size: 18px;
+}
+
+.recommandationshare-button{
+    width: 120px;
+    background-color: #0088cc !important;
+    border-radius: 50px !important;
+    margin-top: 5px; 
+    padding: 3px !important;
+    margin-left: 10px;
+}
+
+.alieanbutton{
+    background-color: #ff4500 !important;
+}
+
+
+.sharetext{
+    font-size: 14px;
+    color: white;
+    padding-inline: 18px;
+}
+
+.sharenodes{
+    width: 50px;
+    background-color: #95D03A !important;
+    border-radius: 50px !important;
+    margin-top: 5px; 
+    padding: 3px !important;
+    margin-left: 10px;
+}
